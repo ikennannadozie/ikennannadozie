@@ -8,4 +8,4 @@
 ikennannadozie/ikennannadozie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![20201002_160939](https://user-images.githubusercontent.com/100697389/156178713-27834159-2a61-44cb-832b-14e5998a6b2d.jpg)
+![20201017_004916](https://user-images.githubusercontent.com/100697389/156180218-6c423f44-7ae0-4233-ab8b-c352eadccc67.jpg)
