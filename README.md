@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ikennannadozie
-- 👀 I’m interested in ...Data Analytics Projects
+- 👀 I’m interested in ... Business & Data Analytics Projects
 - 🌱 I’m currently learning ...Data Analytics
-- 💞️ I’m looking to collaborate on ... Business Data Solution Analytics
+- 💞️ I’m looking to collaborate on ... Innovative Business Data Solution Projects
 - 📫 How to reach me ... send me a mail
 
 <!---
